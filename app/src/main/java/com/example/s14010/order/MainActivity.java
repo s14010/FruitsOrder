@@ -92,6 +92,7 @@ public class MainActivity extends AppCompatActivity
         if(cp.isChecked()) {
             peach = (EditText)findViewById(R.id.et_peach);
         }else{
+
             peach = null;
         }
 
